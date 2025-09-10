@@ -134,3 +134,7 @@ const Home = ({ cartItems, setCartItems }) => {
 };
 
 export default Home;
+
+
+
+

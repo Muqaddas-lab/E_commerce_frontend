@@ -173,3 +173,5 @@ const ProductDetail = ({ cartItems, setCartItems }) => {
 };
 
 export default ProductDetail;
+
+
